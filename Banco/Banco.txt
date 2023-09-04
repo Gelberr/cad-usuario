@@ -1,0 +1,213 @@
+create table Cadastrar_Usuario(
+Id_Usuario SMALLINT IDENTITY(1,1) PRIMARY KEY,
+Nome_Usuario VARCHAR(100) NOT NULL, 
+Login_Usuario VARCHAR(15) NOT NULL, 
+Senha_Usuario VARCHAR(8) NOT NULL, 
+Email_Usuario VARCHAR(50) NOT NULL, 
+Telefone_Usuario VARCHAR(9) NULL, 
+Cpf_Usuario VARCHAR(11) NOT NULL, 
+Data_Nascimento_Usuario date NULL, 
+Nome_Mae_Usuario VARCHAR(100) NULL, 
+Status_Usuario CHAR(1) NOT NULL, 
+Data_Inclusao_Usuario DATETIME,
+Data_Alteracao_Usuario datetime,
+Idade_Usuario INT NULL
+)
+
+
+CREATE PROCEDURE sp_Inserir_Usuario
+(
+-- Parâmetros de entrada da procedure
+@Nome_Usuario VARCHAR(100), 
+@Login_Usuario VARCHAR(15), 
+@Senha_Usuario VARCHAR(8), 
+@Email_Usuario VARCHAR(50), 
+@Telefone_Usuario VARCHAR(9), 
+@Cpf_Usuario VARCHAR(11), 
+@Data_Nascimento_Usuario date, 
+@Nome_Mae_Usuario VARCHAR(100), 
+@Status_Usuario CHAR(1), 
+@Data_Inclusao_Usuario DATETIME,
+@Data_Alteracao_Usuario datetime,
+@Idade_Usuario int
+)
+AS
+
+BEGIN
+    -- Inserindo o registro no banco
+    INSERT INTO dbo.Cadastrar_Usuario
+	(
+		Nome_Usuario, 
+		Login_Usuario, 
+		Senha_Usuario, 
+		Email_Usuario, 
+		Telefone_Usuario, 
+		Cpf_Usuario, 
+		Data_Nascimento_Usuario, 
+		Nome_Mae_Usuario, 
+		Status_Usuario, 
+		Data_Inclusao_Usuario,
+		Data_Alteracao_Usuario,
+		Idade_Usuario
+	)
+	VALUES
+	(
+		@Nome_Usuario, 
+		@Login_Usuario, 
+		@Senha_Usuario, 
+		@Email_Usuario, 
+		@Telefone_Usuario, 
+		@Cpf_Usuario, 
+		@Data_Nascimento_Usuario, 
+		@Nome_Mae_Usuario, 
+		@Status_Usuario, 
+		@Data_Inclusao_Usuario,
+		@Data_Alteracao_Usuario,
+		@Idade_Usuario
+	)
+
+END
+
+GO
+
+
+CREATE PROCEDURE sp_Alterar_Usuario
+(
+-- Parâmetros de entrada da procedure
+@Id_Usuario int,
+@Nome_Usuario VARCHAR(100), 
+@Login_Usuario VARCHAR(15), 
+@Senha_Usuario VARCHAR(8), 
+@Email_Usuario VARCHAR(50), 
+@Telefone_Usuario VARCHAR(9), 
+@Cpf_Usuario VARCHAR(11), 
+@Data_Nascimento_Usuario date, 
+@Nome_Mae_Usuario VARCHAR(100), 
+@Status_Usuario CHAR(1), 
+@Data_Inclusao_Usuario DATETIME,
+@Data_Alteracao_Usuario datetime,
+@Idade_Usuario int
+)
+AS
+
+BEGIN
+    -- Alterar o registro no banco
+	UPDATE Cadastrar_Usuario SET 
+	Nome_Usuario = @Nome_Usuario, 
+	Login_Usuario = @Login_Usuario, 
+	Senha_Usuario = @Senha_Usuario, 
+	Email_Usuario = @Email_Usuario, 
+	Telefone_Usuario = @Telefone_Usuario, 
+	Cpf_Usuario = @Cpf_Usuario, 
+	Data_Nascimento_Usuario = @Data_Nascimento_Usuario, 
+	Nome_Mae_Usuario = @Nome_Mae_Usuario, 
+	Status_Usuario = @Status_Usuario, 
+	Data_Alteracao_Usuario = @Data_Alteracao_Usuario, 
+	Idade_Usuario = @Idade_Usuario 
+	WHERE Id_Usuario = @Id_Usuario
+
+END
+
+GO
+
+
+CREATE PROCEDURE sp_Listar_Usuario
+AS
+
+BEGIN
+    -- Listar o registro no banco
+	select  
+	Id_Usuario,
+	Nome_Usuario, 
+	Login_Usuario, 
+	Senha_Usuario, 
+	Email_Usuario, 
+	Telefone_Usuario, 
+	Cpf_Usuario, 
+	Data_Nascimento_Usuario, 
+	Nome_Mae_Usuario, 
+	Status_Usuario, 
+	Data_Inclusao_Usuario,
+	Data_Alteracao_Usuario,
+	Idade_Usuario 
+	from Cadastrar_Usuario
+
+END
+
+GO
+
+
+
+CREATE PROCEDURE sp_Listar_Usuario_Por_Cpf
+(
+-- Parâmetros de entrada da procedure
+@Id_Usuario int,
+@Nome_Usuario VARCHAR(100), 
+@Login_Usuario VARCHAR(15), 
+@Senha_Usuario VARCHAR(8), 
+@Email_Usuario VARCHAR(50), 
+@Telefone_Usuario VARCHAR(9), 
+@Cpf_Usuario VARCHAR(11), 
+@Data_Nascimento_Usuario date, 
+@Nome_Mae_Usuario VARCHAR(100), 
+@Status_Usuario CHAR(1), 
+@Data_Inclusao_Usuario DATETIME,
+@Data_Alteracao_Usuario datetime,
+@Idade_Usuario int
+)
+AS
+
+BEGIN
+    -- Alterar o registro no banco
+select  
+	Id_Usuario,
+	Nome_Usuario, 
+	Login_Usuario, 
+	Senha_Usuario, 
+	Email_Usuario, 
+	Telefone_Usuario, 
+	Cpf_Usuario, 
+	Data_Nascimento_Usuario, 
+	Nome_Mae_Usuario, 
+	Status_Usuario, 
+	Data_Inclusao_Usuario,
+	Data_Alteracao_Usuario,
+	Idade_Usuario
+from Cadastrar_Usuario
+WHERE Id_Usuario = @Id_Usuario
+
+END
+
+GO
+
+
+CREATE PROCEDURE sp_Login_Usuario
+(
+-- Parâmetros de entrada da procedure
+@Login_Usuario VARCHAR(15), 
+@Senha_Usuario VARCHAR(8)
+)
+AS
+
+BEGIN
+    -- Fazer login o registro no banco
+	select  
+		Id_Usuario,
+		Nome_Usuario, 
+		Login_Usuario, 
+		Senha_Usuario, 
+		Email_Usuario, 
+		Telefone_Usuario, 
+		Cpf_Usuario, 
+		Data_Nascimento_Usuario, 
+		Nome_Mae_Usuario, 
+		Status_Usuario, 
+		Data_Inclusao_Usuario,
+		Data_Alteracao_Usuario,
+		Idade_Usuario
+	from Cadastrar_Usuario
+	WHERE Login_Usuario = @Login_Usuario and Senha_Usuario = @Senha_Usuario
+
+END
+
+GO

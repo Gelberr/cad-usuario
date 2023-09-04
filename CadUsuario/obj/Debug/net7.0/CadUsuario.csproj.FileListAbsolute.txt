@@ -1,0 +1,230 @@
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\appsettings.Development.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\appsettings.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.exe
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.deps.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.runtimeconfig.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.pdb
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Azure.Core.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Azure.Identity.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Humanizer.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.CodeDom.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.AssemblyReference.cache
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.AssemblyInfoInputs.cache
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.AssemblyInfo.cs
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.CoreCompileInputs.cache
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.MvcApplicationPartsAssemblyInfo.cs
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.MvcApplicationPartsAssemblyInfo.cache
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.CadUsuario.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.build.CadUsuario.props
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CadUsuario.props
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CadUsuario.props
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.build.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.development.json
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\scopedcss\bundle\CadUsuario.styles.css
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.CopyComplete
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\refint\CadUsuario.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.pdb
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.genruntimeconfig.cache
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\ref\CadUsuario.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Aspose.PDF.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Diagnostics.PerformanceCounter.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.PerformanceCounter.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ferreira Costa\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\appsettings.Development.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\appsettings.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.exe
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.deps.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.runtimeconfig.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.pdb
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Azure.Core.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Azure.Identity.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Humanizer.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.CodeDom.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.AssemblyReference.cache
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.AssemblyInfoInputs.cache
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.AssemblyInfo.cs
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.CoreCompileInputs.cache
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.MvcApplicationPartsAssemblyInfo.cs
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.MvcApplicationPartsAssemblyInfo.cache
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.CadUsuario.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.build.CadUsuario.props
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CadUsuario.props
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CadUsuario.props
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.build.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.development.json
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\scopedcss\bundle\CadUsuario.styles.css
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.CopyComplete
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\refint\CadUsuario.dll
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.pdb
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.genruntimeconfig.cache
+D:\Ferreira Costa Atividade\Repositorio\CadUsuario\CadUsuario\obj\Debug\net7.0\ref\CadUsuario.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.AssemblyReference.cache
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.AssemblyInfoInputs.cache
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.AssemblyInfo.cs
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.CoreCompileInputs.cache
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.MvcApplicationPartsAssemblyInfo.cs
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.MvcApplicationPartsAssemblyInfo.cache
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\refint\CadUsuario.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.pdb
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\appsettings.Development.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\appsettings.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.exe
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.deps.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.runtimeconfig.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\CadUsuario.pdb
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Azure.Core.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Humanizer.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.CadUsuario.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.build.CadUsuario.props
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CadUsuario.props
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CadUsuario.props
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\scopedcss\bundle\CadUsuario.styles.css
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.csproj.CopyComplete
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\CadUsuario.genruntimeconfig.cache
+D:\Desenvolvimentos de Sistemas\Repositorios\CadUsuario\CadUsuario\obj\Debug\net7.0\ref\CadUsuario.dll
